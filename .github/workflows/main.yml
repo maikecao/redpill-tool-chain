@@ -56,4 +56,3 @@ jobs:
           path: images/redpill-DS[39]*.img
           if-no-files-found: error
 
-
